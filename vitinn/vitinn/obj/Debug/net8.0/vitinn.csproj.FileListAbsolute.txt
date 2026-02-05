@@ -1,0 +1,14 @@
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\bin\Debug\net8.0\vitinn.exe
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\bin\Debug\net8.0\vitinn.deps.json
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\bin\Debug\net8.0\vitinn.runtimeconfig.json
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\bin\Debug\net8.0\vitinn.dll
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\bin\Debug\net8.0\vitinn.pdb
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\obj\Debug\net8.0\vitinn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\obj\Debug\net8.0\vitinn.AssemblyInfoInputs.cache
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\obj\Debug\net8.0\vitinn.AssemblyInfo.cs
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\obj\Debug\net8.0\vitinn.csproj.CoreCompileInputs.cache
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\obj\Debug\net8.0\vitinn.dll
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\obj\Debug\net8.0\refint\vitinn.dll
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\obj\Debug\net8.0\vitinn.pdb
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\obj\Debug\net8.0\vitinn.genruntimeconfig.cache
+C:\Users\victor.amariano\source\repos\vitinn\vitinn\obj\Debug\net8.0\ref\vitinn.dll

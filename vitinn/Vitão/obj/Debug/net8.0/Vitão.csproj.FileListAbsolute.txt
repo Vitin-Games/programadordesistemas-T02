@@ -1,0 +1,14 @@
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\bin\Debug\net8.0\Vitão.exe
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\bin\Debug\net8.0\Vitão.deps.json
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\bin\Debug\net8.0\Vitão.runtimeconfig.json
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\bin\Debug\net8.0\Vitão.dll
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\bin\Debug\net8.0\Vitão.pdb
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\obj\Debug\net8.0\Vitão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\obj\Debug\net8.0\Vitão.AssemblyInfoInputs.cache
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\obj\Debug\net8.0\Vitão.AssemblyInfo.cs
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\obj\Debug\net8.0\Vitão.csproj.CoreCompileInputs.cache
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\obj\Debug\net8.0\Vitão.dll
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\obj\Debug\net8.0\refint\Vitão.dll
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\obj\Debug\net8.0\Vitão.pdb
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\obj\Debug\net8.0\Vitão.genruntimeconfig.cache
+C:\Users\victor.amariano\source\repos\vitinn\Vitão\obj\Debug\net8.0\ref\Vitão.dll

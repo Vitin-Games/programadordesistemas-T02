@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6DD30E-3807-44F7-A116-F620EDF863B5}|Vitin(%)\\Vitin(%).csproj|c:\\users\\victor.amariano\\source\\repos\\vitinn\\vitin(%)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6DD30E-3807-44F7-A116-F620EDF863B5}|Vitin(%)\\Vitin(%).csproj|solutionrelative:vitin(%)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01560DC0-0D14-4288-BF1B-820C66248414}|Vit\u00E3o\\Vit\u00E3o.csproj|c:\\users\\victor.amariano\\source\\repos\\vitinn\\vit\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01560DC0-0D14-4288-BF1B-820C66248414}|Vit\u00E3o\\Vit\u00E3o.csproj|solutionrelative:vit\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CF3DEA-7F6F-4857-A713-D52D5C47EA34}|vitin (maneiro)\\vitin (maneiro).csproj|c:\\users\\victor.amariano\\source\\repos\\vitinn\\vitin (maneiro)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CF3DEA-7F6F-4857-A713-D52D5C47EA34}|vitin (maneiro)\\vitin (maneiro).csproj|solutionrelative:vitin (maneiro)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201FDA52-4D2C-4EC1-AFA9-583C1610A021}|vitinn\\vitinn.csproj|c:\\users\\victor.amariano\\source\\repos\\vitinn\\vitinn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201FDA52-4D2C-4EC1-AFA9-583C1610A021}|vitinn\\vitinn.csproj|solutionrelative:vitinn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201FDA52-4D2C-4EC1-AFA9-583C1610A021}|vitinn\\vitinn.csproj|c:\\users\\victor.amariano\\source\\repos\\vitinn\\vitinn\\vitinn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{201FDA52-4D2C-4EC1-AFA9-583C1610A021}|vitinn\\vitinn.csproj|solutionrelative:vitinn\\vitinn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11959E9F-A89A-4A2D-B986-40764A674DA1}|vitinn (!)\\vitinn (!).csproj|c:\\users\\victor.amariano\\source\\repos\\vitinn\\vitinn (!)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11959E9F-A89A-4A2D-B986-40764A674DA1}|vitinn (!)\\vitinn (!).csproj|solutionrelative:vitinn (!)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\Vitin(%)\\Program.cs",
+              "RelativeDocumentMoniker": "Vitin(%)\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\Vitin(%)\\Program.cs",
+              "RelativeToolTip": "Vitin(%)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:57:44.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\vitin (maneiro)\\Program.cs",
+              "RelativeDocumentMoniker": "vitin (maneiro)\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\vitin (maneiro)\\Program.cs",
+              "RelativeToolTip": "vitin (maneiro)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:57:15.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\Vit\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Vit\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\Vit\u00E3o\\Program.cs",
+              "RelativeToolTip": "Vit\u00E3o\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:43:20.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vitinn",
+              "DocumentMoniker": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\vitinn\\vitinn.csproj",
+              "RelativeDocumentMoniker": "vitinn\\vitinn.csproj",
+              "ToolTip": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\vitinn\\vitinn.csproj",
+              "RelativeToolTip": "vitinn\\vitinn.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T19:30:48.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\vitinn\\Program.cs",
+              "RelativeDocumentMoniker": "vitinn\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\vitinn\\Program.cs",
+              "RelativeToolTip": "vitinn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:39:39.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\vitinn (!)\\Program.cs",
+              "RelativeDocumentMoniker": "vitinn (!)\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.amariano\\source\\repos\\vitinn\\vitinn (!)\\Program.cs",
+              "RelativeToolTip": "vitinn (!)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T18:25:24.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

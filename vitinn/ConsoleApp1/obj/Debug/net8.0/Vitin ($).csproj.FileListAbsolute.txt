@@ -1,0 +1,14 @@
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\bin\Debug\net8.0\Vitin ($).exe
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\bin\Debug\net8.0\Vitin ($).deps.json
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\bin\Debug\net8.0\Vitin ($).runtimeconfig.json
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\bin\Debug\net8.0\Vitin ($).dll
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\bin\Debug\net8.0\Vitin ($).pdb
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\obj\Debug\net8.0\Vitin ($).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\obj\Debug\net8.0\Vitin ($).AssemblyInfoInputs.cache
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\obj\Debug\net8.0\Vitin ($).AssemblyInfo.cs
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\obj\Debug\net8.0\Vitin ($).csproj.CoreCompileInputs.cache
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\obj\Debug\net8.0\Vitin ($).dll
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\obj\Debug\net8.0\refint\Vitin ($).dll
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\obj\Debug\net8.0\Vitin ($).pdb
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\obj\Debug\net8.0\Vitin ($).genruntimeconfig.cache
+C:\Users\victor.amariano\source\repos\vitinn\ConsoleApp1\obj\Debug\net8.0\ref\Vitin ($).dll

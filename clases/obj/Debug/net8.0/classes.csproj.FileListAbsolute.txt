@@ -1,0 +1,14 @@
+C:\Users\victor.amariano\source\repos\clases\obj\Debug\net8.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.amariano\source\repos\clases\obj\Debug\net8.0\classes.AssemblyInfoInputs.cache
+C:\Users\victor.amariano\source\repos\clases\obj\Debug\net8.0\classes.AssemblyInfo.cs
+C:\Users\victor.amariano\source\repos\clases\obj\Debug\net8.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\victor.amariano\source\repos\clases\bin\Debug\net8.0\classes.exe
+C:\Users\victor.amariano\source\repos\clases\bin\Debug\net8.0\classes.deps.json
+C:\Users\victor.amariano\source\repos\clases\bin\Debug\net8.0\classes.runtimeconfig.json
+C:\Users\victor.amariano\source\repos\clases\bin\Debug\net8.0\classes.dll
+C:\Users\victor.amariano\source\repos\clases\bin\Debug\net8.0\classes.pdb
+C:\Users\victor.amariano\source\repos\clases\obj\Debug\net8.0\classes.dll
+C:\Users\victor.amariano\source\repos\clases\obj\Debug\net8.0\refint\classes.dll
+C:\Users\victor.amariano\source\repos\clases\obj\Debug\net8.0\classes.pdb
+C:\Users\victor.amariano\source\repos\clases\obj\Debug\net8.0\classes.genruntimeconfig.cache
+C:\Users\victor.amariano\source\repos\clases\obj\Debug\net8.0\ref\classes.dll

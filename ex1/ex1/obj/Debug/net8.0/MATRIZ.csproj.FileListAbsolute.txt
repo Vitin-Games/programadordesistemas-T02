@@ -1,0 +1,14 @@
+C:\Users\victor.amariano\source\repos\ex1\ex1\bin\Debug\net8.0\MATRIZ.exe
+C:\Users\victor.amariano\source\repos\ex1\ex1\bin\Debug\net8.0\MATRIZ.deps.json
+C:\Users\victor.amariano\source\repos\ex1\ex1\bin\Debug\net8.0\MATRIZ.runtimeconfig.json
+C:\Users\victor.amariano\source\repos\ex1\ex1\bin\Debug\net8.0\MATRIZ.dll
+C:\Users\victor.amariano\source\repos\ex1\ex1\bin\Debug\net8.0\MATRIZ.pdb
+C:\Users\victor.amariano\source\repos\ex1\ex1\obj\Debug\net8.0\MATRIZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.amariano\source\repos\ex1\ex1\obj\Debug\net8.0\MATRIZ.AssemblyInfoInputs.cache
+C:\Users\victor.amariano\source\repos\ex1\ex1\obj\Debug\net8.0\MATRIZ.AssemblyInfo.cs
+C:\Users\victor.amariano\source\repos\ex1\ex1\obj\Debug\net8.0\MATRIZ.csproj.CoreCompileInputs.cache
+C:\Users\victor.amariano\source\repos\ex1\ex1\obj\Debug\net8.0\MATRIZ.dll
+C:\Users\victor.amariano\source\repos\ex1\ex1\obj\Debug\net8.0\refint\MATRIZ.dll
+C:\Users\victor.amariano\source\repos\ex1\ex1\obj\Debug\net8.0\MATRIZ.pdb
+C:\Users\victor.amariano\source\repos\ex1\ex1\obj\Debug\net8.0\MATRIZ.genruntimeconfig.cache
+C:\Users\victor.amariano\source\repos\ex1\ex1\obj\Debug\net8.0\ref\MATRIZ.dll
