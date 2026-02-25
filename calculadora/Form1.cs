@@ -103,7 +103,6 @@ namespace calculadora
         {
             option = "*";
             num1 = int.Parse(txtTela.Text);
-
             txtTela.Clear();
         }
 

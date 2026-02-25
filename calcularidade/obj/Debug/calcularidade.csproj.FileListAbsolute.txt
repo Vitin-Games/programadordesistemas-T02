@@ -1,0 +1,11 @@
+C:\Users\victor.amariano\source\repos\calcularidade\bin\Debug\calcularidade.exe.config
+C:\Users\victor.amariano\source\repos\calcularidade\bin\Debug\calcularidade.exe
+C:\Users\victor.amariano\source\repos\calcularidade\bin\Debug\calcularidade.pdb
+C:\Users\victor.amariano\source\repos\calcularidade\obj\Debug\calcularidade.csproj.AssemblyReference.cache
+C:\Users\victor.amariano\source\repos\calcularidade\obj\Debug\calcularidade.frmCalcularIdade.resources
+C:\Users\victor.amariano\source\repos\calcularidade\obj\Debug\calcularidade.Properties.Resources.resources
+C:\Users\victor.amariano\source\repos\calcularidade\obj\Debug\calcularidade.csproj.GenerateResource.cache
+C:\Users\victor.amariano\source\repos\calcularidade\obj\Debug\calcularidade.csproj.CoreCompileInputs.cache
+C:\Users\victor.amariano\source\repos\calcularidade\obj\Debug\calcularidade.exe
+C:\Users\victor.amariano\source\repos\calcularidade\obj\Debug\calcularidade.pdb
+C:\Users\victor.amariano\source\repos\calcularidade\obj\Debug\calcularidade.exe.config

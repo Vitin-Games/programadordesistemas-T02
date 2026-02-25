@@ -50,194 +50,230 @@
             // 
             // btnSegundoNumero
             // 
-            this.btnSegundoNumero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSegundoNumero.BackColor = System.Drawing.Color.Snow;
+            this.btnSegundoNumero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSegundoNumero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnSegundoNumero.Location = new System.Drawing.Point(116, 83);
             this.btnSegundoNumero.Name = "btnSegundoNumero";
             this.btnSegundoNumero.Size = new System.Drawing.Size(75, 56);
             this.btnSegundoNumero.TabIndex = 1;
             this.btnSegundoNumero.Text = "2";
-            this.btnSegundoNumero.UseVisualStyleBackColor = true;
+            this.btnSegundoNumero.UseVisualStyleBackColor = false;
             this.btnSegundoNumero.Click += new System.EventHandler(this.btnSegundoNumero_Click);
             // 
             // btnPrimeiroNumero
             // 
-            this.btnPrimeiroNumero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPrimeiroNumero.BackColor = System.Drawing.Color.Snow;
+            this.btnPrimeiroNumero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPrimeiroNumero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnPrimeiroNumero.Location = new System.Drawing.Point(35, 83);
             this.btnPrimeiroNumero.Name = "btnPrimeiroNumero";
             this.btnPrimeiroNumero.Size = new System.Drawing.Size(75, 56);
             this.btnPrimeiroNumero.TabIndex = 2;
             this.btnPrimeiroNumero.Text = "1";
-            this.btnPrimeiroNumero.UseVisualStyleBackColor = true;
+            this.btnPrimeiroNumero.UseVisualStyleBackColor = false;
             this.btnPrimeiroNumero.Click += new System.EventHandler(this.btnPrimeiroNumero_Click);
             // 
             // btnTerceiroNumero
             // 
-            this.btnTerceiroNumero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTerceiroNumero.BackColor = System.Drawing.Color.Snow;
+            this.btnTerceiroNumero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTerceiroNumero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnTerceiroNumero.Location = new System.Drawing.Point(197, 83);
             this.btnTerceiroNumero.Name = "btnTerceiroNumero";
             this.btnTerceiroNumero.Size = new System.Drawing.Size(75, 55);
             this.btnTerceiroNumero.TabIndex = 3;
             this.btnTerceiroNumero.Text = "3";
-            this.btnTerceiroNumero.UseVisualStyleBackColor = true;
+            this.btnTerceiroNumero.UseVisualStyleBackColor = false;
             this.btnTerceiroNumero.Click += new System.EventHandler(this.btnTerceiroNumero_Click);
             // 
             // btnQuartoNumero
             // 
-            this.btnQuartoNumero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnQuartoNumero.BackColor = System.Drawing.Color.Snow;
+            this.btnQuartoNumero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnQuartoNumero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnQuartoNumero.Location = new System.Drawing.Point(35, 145);
             this.btnQuartoNumero.Name = "btnQuartoNumero";
             this.btnQuartoNumero.Size = new System.Drawing.Size(75, 56);
             this.btnQuartoNumero.TabIndex = 4;
             this.btnQuartoNumero.Text = "4";
-            this.btnQuartoNumero.UseVisualStyleBackColor = true;
+            this.btnQuartoNumero.UseVisualStyleBackColor = false;
             this.btnQuartoNumero.Click += new System.EventHandler(this.btnQuartoNumero_Click);
             // 
             // btnQuintoNumero
             // 
-            this.btnQuintoNumero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnQuintoNumero.BackColor = System.Drawing.Color.Snow;
+            this.btnQuintoNumero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnQuintoNumero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnQuintoNumero.Location = new System.Drawing.Point(116, 142);
             this.btnQuintoNumero.Name = "btnQuintoNumero";
             this.btnQuintoNumero.Size = new System.Drawing.Size(75, 56);
             this.btnQuintoNumero.TabIndex = 5;
             this.btnQuintoNumero.Text = "5";
-            this.btnQuintoNumero.UseVisualStyleBackColor = true;
+            this.btnQuintoNumero.UseVisualStyleBackColor = false;
             this.btnQuintoNumero.Click += new System.EventHandler(this.btnQuintoNumero_Click);
             // 
             // btnSextoNumero
             // 
-            this.btnSextoNumero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSextoNumero.BackColor = System.Drawing.Color.Snow;
+            this.btnSextoNumero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSextoNumero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnSextoNumero.Location = new System.Drawing.Point(197, 144);
             this.btnSextoNumero.Name = "btnSextoNumero";
             this.btnSextoNumero.Size = new System.Drawing.Size(75, 53);
             this.btnSextoNumero.TabIndex = 6;
             this.btnSextoNumero.Text = "6";
-            this.btnSextoNumero.UseVisualStyleBackColor = true;
+            this.btnSextoNumero.UseVisualStyleBackColor = false;
             this.btnSextoNumero.Click += new System.EventHandler(this.btnSextoNumero_Click);
             // 
             // btnSetimoNumero
             // 
-            this.btnSetimoNumero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSetimoNumero.BackColor = System.Drawing.Color.Snow;
+            this.btnSetimoNumero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSetimoNumero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnSetimoNumero.Location = new System.Drawing.Point(35, 206);
             this.btnSetimoNumero.Name = "btnSetimoNumero";
             this.btnSetimoNumero.Size = new System.Drawing.Size(75, 52);
             this.btnSetimoNumero.TabIndex = 7;
             this.btnSetimoNumero.Text = "7";
-            this.btnSetimoNumero.UseVisualStyleBackColor = true;
+            this.btnSetimoNumero.UseVisualStyleBackColor = false;
             this.btnSetimoNumero.Click += new System.EventHandler(this.btnSetimoNumero_Click);
             // 
             // btnOitavoNumero
             // 
-            this.btnOitavoNumero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOitavoNumero.BackColor = System.Drawing.Color.Snow;
+            this.btnOitavoNumero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOitavoNumero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnOitavoNumero.Location = new System.Drawing.Point(116, 206);
             this.btnOitavoNumero.Name = "btnOitavoNumero";
             this.btnOitavoNumero.Size = new System.Drawing.Size(75, 53);
             this.btnOitavoNumero.TabIndex = 8;
             this.btnOitavoNumero.Text = "8";
-            this.btnOitavoNumero.UseVisualStyleBackColor = true;
+            this.btnOitavoNumero.UseVisualStyleBackColor = false;
             this.btnOitavoNumero.Click += new System.EventHandler(this.btnOitavoNumero_Click);
             // 
             // btnNonoNumero
             // 
-            this.btnNonoNumero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNonoNumero.BackColor = System.Drawing.Color.Snow;
+            this.btnNonoNumero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNonoNumero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnNonoNumero.Location = new System.Drawing.Point(197, 207);
             this.btnNonoNumero.Name = "btnNonoNumero";
             this.btnNonoNumero.Size = new System.Drawing.Size(75, 52);
             this.btnNonoNumero.TabIndex = 9;
             this.btnNonoNumero.Text = "9";
-            this.btnNonoNumero.UseVisualStyleBackColor = true;
+            this.btnNonoNumero.UseVisualStyleBackColor = false;
             this.btnNonoNumero.Click += new System.EventHandler(this.btnNonoNumero_Click);
             // 
             // btnNumeroZero
             // 
-            this.btnNumeroZero.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNumeroZero.BackColor = System.Drawing.Color.Snow;
+            this.btnNumeroZero.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNumeroZero.ForeColor = System.Drawing.Color.DarkRed;
             this.btnNumeroZero.Location = new System.Drawing.Point(116, 265);
             this.btnNumeroZero.Name = "btnNumeroZero";
             this.btnNumeroZero.Size = new System.Drawing.Size(75, 55);
             this.btnNumeroZero.TabIndex = 10;
             this.btnNumeroZero.Text = "0";
-            this.btnNumeroZero.UseVisualStyleBackColor = true;
+            this.btnNumeroZero.UseVisualStyleBackColor = false;
             this.btnNumeroZero.Click += new System.EventHandler(this.btnNumeroZero_Click);
             // 
             // btnPonto
             // 
-            this.btnPonto.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPonto.BackColor = System.Drawing.Color.Snow;
+            this.btnPonto.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPonto.ForeColor = System.Drawing.Color.DarkRed;
             this.btnPonto.Location = new System.Drawing.Point(35, 265);
             this.btnPonto.Name = "btnPonto";
             this.btnPonto.Size = new System.Drawing.Size(75, 55);
             this.btnPonto.TabIndex = 11;
             this.btnPonto.Text = ".";
-            this.btnPonto.UseVisualStyleBackColor = true;
+            this.btnPonto.UseVisualStyleBackColor = false;
             this.btnPonto.Click += new System.EventHandler(this.btnPonto_Click);
             // 
             // btnIgual
             // 
-            this.btnIgual.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnIgual.BackColor = System.Drawing.Color.Snow;
+            this.btnIgual.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnIgual.ForeColor = System.Drawing.Color.DarkRed;
             this.btnIgual.Location = new System.Drawing.Point(197, 265);
             this.btnIgual.Name = "btnIgual";
             this.btnIgual.Size = new System.Drawing.Size(75, 55);
             this.btnIgual.TabIndex = 12;
             this.btnIgual.Text = "=";
-            this.btnIgual.UseVisualStyleBackColor = true;
+            this.btnIgual.UseVisualStyleBackColor = false;
             this.btnIgual.Click += new System.EventHandler(this.btnIgual_Click);
             // 
             // btnDividir
             // 
-            this.btnDividir.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDividir.BackColor = System.Drawing.Color.Snow;
+            this.btnDividir.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDividir.ForeColor = System.Drawing.Color.DarkRed;
             this.btnDividir.Location = new System.Drawing.Point(278, 85);
             this.btnDividir.Name = "btnDividir";
             this.btnDividir.Size = new System.Drawing.Size(75, 55);
             this.btnDividir.TabIndex = 13;
             this.btnDividir.Text = "/";
-            this.btnDividir.UseVisualStyleBackColor = true;
+            this.btnDividir.UseVisualStyleBackColor = false;
             this.btnDividir.Click += new System.EventHandler(this.btnDividir_Click);
             // 
             // btnMutiplicação
             // 
-            this.btnMutiplicação.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMutiplicação.BackColor = System.Drawing.Color.Snow;
+            this.btnMutiplicação.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMutiplicação.ForeColor = System.Drawing.Color.DarkRed;
             this.btnMutiplicação.Location = new System.Drawing.Point(278, 142);
             this.btnMutiplicação.Name = "btnMutiplicação";
             this.btnMutiplicação.Size = new System.Drawing.Size(75, 55);
             this.btnMutiplicação.TabIndex = 14;
             this.btnMutiplicação.Text = "*";
-            this.btnMutiplicação.UseVisualStyleBackColor = true;
+            this.btnMutiplicação.UseVisualStyleBackColor = false;
             this.btnMutiplicação.Click += new System.EventHandler(this.btnMutiplicação_Click);
             // 
             // btnSubtrair
             // 
-            this.btnSubtrair.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSubtrair.BackColor = System.Drawing.Color.Snow;
+            this.btnSubtrair.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSubtrair.ForeColor = System.Drawing.Color.DarkRed;
             this.btnSubtrair.Location = new System.Drawing.Point(278, 207);
             this.btnSubtrair.Name = "btnSubtrair";
             this.btnSubtrair.Size = new System.Drawing.Size(75, 52);
             this.btnSubtrair.TabIndex = 15;
             this.btnSubtrair.Text = "-";
-            this.btnSubtrair.UseVisualStyleBackColor = true;
+            this.btnSubtrair.UseVisualStyleBackColor = false;
             this.btnSubtrair.Click += new System.EventHandler(this.btnSubtrair_Click);
             // 
             // btnSoma
             // 
-            this.btnSoma.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSoma.BackColor = System.Drawing.Color.Snow;
+            this.btnSoma.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSoma.ForeColor = System.Drawing.Color.DarkRed;
             this.btnSoma.Location = new System.Drawing.Point(278, 265);
             this.btnSoma.Name = "btnSoma";
             this.btnSoma.Size = new System.Drawing.Size(75, 54);
             this.btnSoma.TabIndex = 16;
             this.btnSoma.Text = "+";
-            this.btnSoma.UseVisualStyleBackColor = true;
+            this.btnSoma.UseVisualStyleBackColor = false;
             this.btnSoma.Click += new System.EventHandler(this.btnSoma_Click);
             // 
             // btnDeletar
             // 
-            this.btnDeletar.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDeletar.BackColor = System.Drawing.Color.Snow;
+            this.btnDeletar.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDeletar.ForeColor = System.Drawing.Color.DarkRed;
             this.btnDeletar.Location = new System.Drawing.Point(278, 26);
             this.btnDeletar.Name = "btnDeletar";
             this.btnDeletar.Size = new System.Drawing.Size(75, 53);
             this.btnDeletar.TabIndex = 17;
             this.btnDeletar.Text = "C";
-            this.btnDeletar.UseVisualStyleBackColor = true;
+            this.btnDeletar.UseVisualStyleBackColor = false;
             this.btnDeletar.Click += new System.EventHandler(this.btnDeletar_Click);
             // 
             // txtTela
             // 
-            this.txtTela.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTela.BackColor = System.Drawing.Color.Snow;
+            this.txtTela.Font = new System.Drawing.Font("Microsoft Uighur", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTela.ForeColor = System.Drawing.Color.DarkRed;
             this.txtTela.Location = new System.Drawing.Point(35, 26);
             this.txtTela.Multiline = true;
             this.txtTela.Name = "txtTela";
@@ -248,6 +284,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.ClientSize = new System.Drawing.Size(385, 350);
             this.Controls.Add(this.txtTela);
             this.Controls.Add(this.btnDeletar);
