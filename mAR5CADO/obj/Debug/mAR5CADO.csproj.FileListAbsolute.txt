@@ -1,0 +1,11 @@
+C:\Users\victor.amariano\source\repos\mAR5CADO\bin\Debug\mAR5CADO.exe.config
+C:\Users\victor.amariano\source\repos\mAR5CADO\bin\Debug\mAR5CADO.exe
+C:\Users\victor.amariano\source\repos\mAR5CADO\bin\Debug\mAR5CADO.pdb
+C:\Users\victor.amariano\source\repos\mAR5CADO\obj\Debug\mAR5CADO.csproj.AssemblyReference.cache
+C:\Users\victor.amariano\source\repos\mAR5CADO\obj\Debug\mAR5CADO.Properties.Resources.resources
+C:\Users\victor.amariano\source\repos\mAR5CADO\obj\Debug\mAR5CADO.csproj.GenerateResource.cache
+C:\Users\victor.amariano\source\repos\mAR5CADO\obj\Debug\mAR5CADO.csproj.CoreCompileInputs.cache
+C:\Users\victor.amariano\source\repos\mAR5CADO\obj\Debug\mAR5CADO.exe
+C:\Users\victor.amariano\source\repos\mAR5CADO\obj\Debug\mAR5CADO.pdb
+C:\Users\victor.amariano\source\repos\mAR5CADO\obj\Debug\mAR5CADO.exe.config
+C:\Users\victor.amariano\source\repos\mAR5CADO\obj\Debug\mAR5CADO.frmMercado.resources
